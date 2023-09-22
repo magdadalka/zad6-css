@@ -1,0 +1,12 @@
+p.paragraf {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    font-size: x-small;
+}
+p.p1 {
+    background-color: blue;
+}
+p.p2 {
+    background-color: rgba(255, 0, 0, 0.5);
+}
